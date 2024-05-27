@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HashedBit-Internship-Tasks-RegistrationForm/static/css/main.5298af4e.css",
+    "main.js": "/HashedBit-Internship-Tasks-RegistrationForm/static/js/main.bd4b6c9a.js",
+    "index.html": "/HashedBit-Internship-Tasks-RegistrationForm/index.html",
+    "main.5298af4e.css.map": "/HashedBit-Internship-Tasks-RegistrationForm/static/css/main.5298af4e.css.map",
+    "main.bd4b6c9a.js.map": "/HashedBit-Internship-Tasks-RegistrationForm/static/js/main.bd4b6c9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5298af4e.css",
+    "static/js/main.bd4b6c9a.js"
+  ]
+}
